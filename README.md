@@ -1,2 +1,2 @@
 # Expense-Tracker
-React App for your yearly expense tracking.
+Expense Tracking webapp using ReactJS. 
